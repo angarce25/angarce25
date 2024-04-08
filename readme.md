@@ -13,12 +13,6 @@ Desarrolladora Web apasionada por trabajar en equipos multidisciplinarios, apren
 ## Contacto :iphone:
 - Email: andreagarciacedeno@gmail.com
 
-
-## Experiencia profesional :briefcase:
-- Hackaton de Desarrollo de MarketPlace en remoto Globant- Somos F5, 2024
-- Encargada de tienda Gymage Lounge Resort S. L., 2018 - 2023
-- Técnica Superior Jr. Siticore, 2022
-
 ## Habilidades :rocket:
 - Trabajo en equipo
 - Proactividad
